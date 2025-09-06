@@ -1,14 +1,4 @@
-DISCONTINUATION OF PROJECT.
 
-This project will no longer be maintained by Intel.
-
-Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project. 
-
-Intel no longer accepts patches to this project.
-
-If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the open source software community, please create your own fork of this project. 
-Simple Autonomous Wheeled Robot (SAWR)
-======================================
 
 The goal of the SAWR project is to define a basic "example robot" to
 demonstrate autonomous navigation using [ROS](http://wiki.ros.org/) with
@@ -82,23 +72,6 @@ following package. It is located in the same repository but is not actually
 required for run-time operation:
 * [sawr_hardware](sawr_hardware/README.md):
    CAD files and assembly instructions.
-
-Additional Material
--------------------
-Please look for the SAWR project under [01.org](https://01.org/sawr)
-for links to additional material. Only basic build instructions 
-included in this package.  The 01.org site will contain additional
-tutorial information including video, as well as a discussion of future
-plans.  This site will also act as a hub pointing to any other resources 
-(for instance, under the ROS wiki) as they become available.
-
-In particular, we hope to make kits available for purchase and link to them 
-from the [01.org SAWR project page](https://01.org/sawr). If you want to make 
-and sell a kit, no problem! The licenses used permit commercial use and 
-derivatives; see [LICENSES.md](LICENSES.md) for details of the licenses, 
-and the package.xml files in each directory for information on which licenses 
-apply to each component. However, please do let us know if you are producing 
-a kit so we can link to you from the above site.
 
 Contributing
 ------------
